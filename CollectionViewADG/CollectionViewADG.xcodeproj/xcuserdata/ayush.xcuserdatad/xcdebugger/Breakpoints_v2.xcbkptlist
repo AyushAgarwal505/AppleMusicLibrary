@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B15A915-36E9-4ED8-A8CE-91A5C361BDB3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BD1F320-A0FD-4634-9042-4C637BF0C5DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionViewADG/MyCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MyCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8BD1F320-A0FD-4634-9042-4C637BF0C5DD - e4a1bf1a7aabee05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewADG.MyCollectionViewCell.imageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CollectionViewADG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayush/Downloads/ADGProjects/CollectionViewADG/CollectionViewADG/MyCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8BD1F320-A0FD-4634-9042-4C637BF0C5DD - 85ca03b7dbe9da11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewADG.MyCollectionViewCell.imageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CollectionViewADG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayush/Downloads/ADGProjects/CollectionViewADG/CollectionViewADG/MyCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "8BD1F320-A0FD-4634-9042-4C637BF0C5DD - 17823322ef9f9300"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewADG.MyCollectionViewCell.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CollectionViewADG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayush/Downloads/ADGProjects/CollectionViewADG/CollectionViewADG/MyCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8BD1F320-A0FD-4634-9042-4C637BF0C5DD - c369554a54c74b4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewADG.MyCollectionViewCell.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CollectionViewADG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayush/Downloads/ADGProjects/CollectionViewADG/CollectionViewADG/MyCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8BD1F320-A0FD-4634-9042-4C637BF0C5DD - fe3b854ce12f67c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewADG.MyCollectionViewCell.init(frame: __C.CGRect) -&gt; CollectionViewADG.MyCollectionViewCell"
+                  moduleName = "CollectionViewADG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayush/Downloads/ADGProjects/CollectionViewADG/CollectionViewADG/MyCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "8BD1F320-A0FD-4634-9042-4C637BF0C5DD - 5ca45fbbc8e8b63e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionViewADG.MyCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CollectionViewADG.MyCollectionViewCell&gt;"
+                  moduleName = "CollectionViewADG"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayush/Downloads/ADGProjects/CollectionViewADG/CollectionViewADG/MyCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
